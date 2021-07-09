@@ -1,0 +1,387 @@
+{
+  "categories": {
+    "Mobile": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy F02",
+        "model_number": "SV5467UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bp9IpcK-L._SX522_.jpg",
+        "price": 22000,
+        "specifications": {
+          "RAM": "3 GB",
+          "Storage": "64 GB",
+          "Battery": "5000 mAh Lithium-ion Battery",
+          "Processor": "Qualcomm Snapdragon 450"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy M02",
+        "model_number": "SV5127UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bp9IpcK-L._SX522_.jpg",
+        "price": 28000,
+        "specifications": {
+          "RAM": "3 GB",
+          "Storage": "32 GB",
+          "Battery": "5000 mAh Lithium-ion Battery",
+          "Processor": "Qualcomm Snapdragon 450"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Samsung Galaxy M21",
+        "model_number": "SV7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bp9IpcK-L._SX522_.jpg",
+        "price": 20000,
+        "specifications": {
+          "RAM": "6 GB",
+          "Storage": "128 GB",
+          "Battery": "6000 mAh Lithium-ion Battery",
+          "Processor": "Qualcomm Snapdragon 450"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Samsung Galaxy M31",
+        "model_number": "SV8967UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bp9IpcK-L._SX522_.jpg",
+        "price": 8000,
+        "specifications": {
+          "RAM": "4 GB",
+          "Storage": "128 GB",
+          "Battery": "5000 mAh Lithium-ion Battery",
+          "Processor": "Qualcomm Snapdragon 450"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Samsung Galaxy F41",
+        "model_number": "SV167234",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71bp9IpcK-L._SX522_.jpg",
+        "price": 25000,
+        "specifications": {
+          "RAM": "4 GB",
+          "Storage": "128 GB",
+          "Battery": "5000 mAh Lithium-ion Battery",
+          "Processor": "Qualcomm Snapdragon 450"
+        }
+      }
+    ],
+    "Laptop": [
+      {
+        "id": 6,
+        "name": "Lenovo Ideapad Slim 3i (2021) Core i5 11th Gen",
+        "model_number": "IdeaPad 3 15ITL6",
+        "image": "https://i.gadgets360cdn.com/products/large/macbook-air-m1-2020-db-800x600-1607604365.png",
+        "price": 22000,
+        "specifications": {
+          "Number of Cores": 4,
+          "Color": "Arctic Grey",
+          "Type": "Thin and Light Laptop",
+          "Battery Backup": "Upto 7.5 Hours",
+          "RAM Frequency": "3200 MHz"
+        }
+      },
+      {
+        "id": 7,
+        "name": "ASUS TUF Gaming F15 Core i5 10th Gen",
+        "model_number": "SV5127UI",
+        "image": "https://i.gadgets360cdn.com/products/large/macbook-air-m1-2020-db-800x600-1607604365.png",
+        "price": 28000,
+        "specifications": {
+          "Part Number": "37D38PA#ACJ",
+          "Color": "Jet Black",
+          "Type": "Thin and Light Laptop",
+          "Suitable For": "Processing & Multitasking",
+          "Battery Cell": "3-cell",
+          "MS Office Provided": "Yes"
+        }
+      },
+      {
+        "id": 8,
+        "name": "HP Core i3 11th Gen",
+        "model_number": "SV7867UI",
+        "image": "https://i.gadgets360cdn.com/products/large/macbook-air-m1-2020-db-800x600-1607604365.png",
+        "price": 16000,
+        "specifications": {
+          "Part Number": "MGN63HN/A",
+          "Series": "MacBook Air",
+          "Color": "Space Grey",
+          "Type": "Thin and Light Laptop",
+          "Suitable For": "Processing & Multitasking",
+          "Battery Backup": "Upto 15 hours",
+          "Power Supply": "30 W AC Adapter"
+        }
+      },
+      {
+        "id": 9,
+        "name": "APPLE MacBook Air M1",
+        "model_number": "SV8967UI",
+        "image": "https://i.gadgets360cdn.com/products/large/macbook-air-m1-2020-db-800x600-1607604365.png",
+        "price": 8000,
+        "specifications": {
+          "Number of Cores": 4,
+          "Color": "Arctic Grey",
+          "Type": "Thin and Light Laptop",
+          "Battery Backup": "Upto 7.5 Hours",
+          "RAM Frequency": "3200 MHz"
+        }
+      },
+      {
+        "id": 10,
+        "name": "ASUS TUF Gaming F15 Core i5 10th Gen",
+        "model_number": "SV5127UI",
+        "image": "https://i.gadgets360cdn.com/products/large/macbook-air-m1-2020-db-800x600-1607604365.png",
+        "price": 28000,
+        "specifications": {
+          "Part Number": "37D38PA#ACJ",
+          "Color": "Jet Black",
+          "Type": "Thin and Light Laptop",
+          "Suitable For": "Processing & Multitasking",
+          "Battery Cell": "3-cell",
+          "MS Office Provided": "Yes"
+        }
+      },
+      {
+        "id": 11,
+        "name": "HP Core i3 11th Gen",
+        "model_number": "SV7867UI",
+        "image": "https://i.gadgets360cdn.com/products/large/macbook-air-m1-2020-db-800x600-1607604365.png",
+        "price": 16000,
+        "specifications": {
+          "Number of Cores": 4,
+          "Color": "Arctic Grey",
+          "Type": "Thin and Light Laptop",
+          "Battery Backup": "Upto 7.5 Hours",
+          "RAM Frequency": "3200 MHz"
+        }
+      }
+    ],
+    "TVs": [
+      {
+        "id": 12,
+        "name": "SAMSUNG 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition",
+        "model_number": "TV7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71D08OHPLvL._SL1500_.jpg",
+        "price": 16000,
+        "specifications": {
+          "Color": "Black",
+          "Display Size": "80 cm (32)",
+          "Screen Type": "LED",
+          "HD Technology & Resolution": "HD Ready, 1366 x 768",
+          "3D": "No"
+        }
+      },
+      {
+        "id": 13,
+        "name": "Mi 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV",
+        "model_number": "TV7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71D08OHPLvL._SL1500_.jpg",
+        "price": 16000,
+        "specifications": {
+          "Color": "Black",
+          "Display Size": "80 cm (32)",
+          "Motion Sensor": "No",
+          "HDMI": "3",
+          "USB": "2",
+          "Wi-Fi Type": "802.11 b/g/n",
+          "3D": "No"
+        }
+      },
+      {
+        "id": 14,
+        "name": "Vu Premium 108 cm (43 inch) Ultra HD (4K)",
+        "model_number": "TV7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71D08OHPLvL._SL1500_.jpg",
+        "price": 16000,
+        "specifications": {
+          "Color": "Black",
+          "Display Size": "108 cm (43)",
+          "Screen Type": "LED",
+          "HD Technology & Resolution": "Ultra HD (4K), 3840 x 2160",
+          "3D": "No"
+        }
+      },
+      {
+        "id": 15,
+        "name": "SAMSUNG 80 cm (32 inch) HD Ready LED Smart TV 2020 Edition",
+        "model_number": "TV7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71D08OHPLvL._SL1500_.jpg",
+        "price": 16000,
+        "specifications": {
+          "Color": "Black",
+          "Display Size": "80 cm (32)",
+          "Screen Type": "LED",
+          "HD Technology & Resolution": "HD Ready, 1366 x 768",
+          "3D": "No"
+        }
+      },
+      {
+        "id": 16,
+        "name": "Mi 4A PRO 80 cm (32 inch) HD Ready LED Smart Android TV",
+        "model_number": "TV7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71D08OHPLvL._SL1500_.jpg",
+        "price": 16000,
+        "specifications": {
+          "Color": "Black",
+          "Display Size": "80 cm (32)",
+          "Motion Sensor": "No",
+          "HDMI": "3",
+          "USB": "2",
+          "Wi-Fi Type": "802.11 b/g/n",
+          "3D": "No"
+        }
+      }
+    ],
+    "Washing Machines": [
+      {
+        "id": 17,
+        "name": "SAMSUNG 6.5 kg Monsoon drying feature",
+        "model_number": "WA7867UI",
+        "image": "https://www.lg.com/in/images/washing-machines/md07515048/gallery/FHM1207ZDL-Washing-Machines-Front-View-D-01.jpg",
+        "price": 35000,
+        "specifications": {
+          "Function Type": "Fully Automatic Top Load",
+          "Washing Capacity": "6.5 kg",
+          "Washing Method": "Pulsator",
+          "Maximum Spin Speed": "680 rpm",
+          "In-built Heater": "No",
+          "Color": "Silver"
+        }
+      },
+      {
+        "id": 18,
+        "name": "LG 6.5 kg 5 Star Inverter Fully Automatic Top Load Silver",
+        "model_number": "WA7867UI",
+        "image": "https://www.lg.com/in/images/washing-machines/md07515048/gallery/FHM1207ZDL-Washing-Machines-Front-View-D-01.jpg",
+        "price": 35000,
+        "specifications": {
+          "Function Type": "Fully Automatic Top Load",
+          "Washing Capacity": "6.5 kg",
+          "Washing Method": "3 Smart Motion",
+          "Maximum Spin Speed": "780 rpm",
+          "In-built Heater": "No",
+          "Color": "Silver"
+        }
+      },
+      {
+        "id": 19,
+        "name": "SAMSUNG 7 kg 5 Star Wifi AI-Enabled",
+        "model_number": "WA7867UI",
+        "image": "https://www.lg.com/in/images/washing-machines/md07515048/gallery/FHM1207ZDL-Washing-Machines-Front-View-D-01.jpg",
+        "price": 35000,
+        "specifications": {
+          "Function Type": "Fully Automatic Top Load",
+          "Washing Capacity": "6.5 kg",
+          "Energy Rating": "5",
+          "Washing Method": "Pulsator",
+          "Maximum Spin Speed": "1200 rpm",
+          "In-built Heater": "No",
+          "Color": "Black, Grey"
+        }
+      },
+      {
+        "id": 20,
+        "name": "SAMSUNG 6.5 kg Monsoon drying feature",
+        "model_number": "WA7867UI",
+        "image": "https://www.lg.com/in/images/washing-machines/md07515048/gallery/FHM1207ZDL-Washing-Machines-Front-View-D-01.jpg",
+        "price": 35000,
+        "specifications": {
+          "Function Type": "Fully Automatic Top Load",
+          "Washing Capacity": "6.5 kg",
+          "Washing Method": "Pulsator",
+          "Maximum Spin Speed": "680 rpm",
+          "In-built Heater": "No",
+          "Color": "Silver"
+        }
+      },
+      {
+        "id": 21,
+        "name": "LG 6.5 kg 5 Star Inverter Fully Automatic Top Load Silver",
+        "model_number": "WA7867UI",
+        "image": "https://www.lg.com/in/images/washing-machines/md07515048/gallery/FHM1207ZDL-Washing-Machines-Front-View-D-01.jpg",
+        "price": 35000,
+        "specifications": {
+          "Function Type": "Fully Automatic Top Load",
+          "Washing Capacity": "6.5 kg",
+          "Washing Method": "3 Smart Motion",
+          "Maximum Spin Speed": "780 rpm",
+          "In-built Heater": "No",
+          "Color": "Silver"
+        }
+      }
+    ],
+    "Air Conditioners": [
+      {
+        "id": 22,
+        "name": "Voltas 2 in 1 Convertible Cooling 1.6 Ton",
+        "model_number": "AC7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51NBdf0anrL._SL1500_.jpg",
+        "price": 35000,
+        "specifications": {
+          "Star Rating": "3 Star BEE Rating",
+          "BEE Rating Year": "2021",
+          "Color": "White",
+          "Cooling Capacity": "5400 W",
+          "Compressor": "Rotary"
+        }
+      },
+      {
+        "id": 23,
+        "name": "Whirlpool 4 in 1 Convertible Cooling 1.5 Ton",
+        "model_number": "AC7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51NBdf0anrL._SL1500_.jpg",
+        "price": 35000,
+        "specifications": {
+          "Star Rating": "3 Star BEE Rating",
+          "BEE Rating Year": "2021",
+          "Color": "White",
+          "Cooling Capacity": "7400 W",
+          "Compressor": "Inverter Compressor"
+        }
+      },
+      {
+        "id": 24,
+        "name": "Panasonic 1 Ton 3 Star Split Inverter",
+        "model_number": "AC7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51NBdf0anrL._SL1500_.jpg",
+        "price": 35000,
+        "specifications": {
+          "Star Rating": "3 Star BEE Rating",
+          "BEE Rating Year": "2020",
+          "Color": "Silver",
+          "Cooling Capacity": "4400 W",
+          "Compressor": "Rotary"
+        }
+      },
+      {
+        "id": 25,
+        "name": "Voltas 2 in 1 Convertible Cooling 1.6 Ton",
+        "model_number": "AC7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51NBdf0anrL._SL1500_.jpg",
+        "price": 35000,
+        "specifications": {
+          "Star Rating": "3 Star BEE Rating",
+          "BEE Rating Year": "2021",
+          "Color": "White",
+          "Cooling Capacity": "5400 W",
+          "Compressor": "Rotary"
+        }
+      },
+      {
+        "id": 26,
+        "name": "Whirlpool 4 in 1 Convertible Cooling 1.5 Ton",
+        "model_number": "AC7867UI",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/51NBdf0anrL._SL1500_.jpg",
+        "price": 35000,
+        "specifications": {
+          "Star Rating": "3 Star BEE Rating",
+          "BEE Rating Year": "2021",
+          "Color": "White",
+          "Cooling Capacity": "7400 W",
+          "Compressor": "Inverter Compressor"
+        }
+      }
+    ]
+  }
+}
